@@ -1,23 +1,15 @@
 # Designer Agent
 
-AI-агент для UX/UI дизайнера — настраивается за один запуск.
-
-## Требования
-
-- [Node.js](https://nodejs.org) (v18+)
-- [Cursor](https://cursor.com)
-- [Claude Desktop](https://claude.ai/download)
+AI-агент для UX/UI дизайнера — настраивается за один сеанс.
 
 ## Установка
 
-```bash
-npm install -g @anthropic-ai/claude-code
-git clone https://github.com/[твой-юзер]/designer-agent
-cd designer-agent
-claude
-```
+1. Скачай [Claude Desktop](https://claude.ai/download)
+2. Создай пустую папку на компьютере
+3. Открой Claude Desktop → перейди в режим **Cowork** → выбери эту папку
+4. Напиши: `установи designer-agent`
 
-Агент запустится и сам проведёт настройку.
+Агент сам клонирует репозиторий и проведёт настройку.
 
 ## Автор
 
