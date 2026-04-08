@@ -9,7 +9,7 @@
 немедленно запусти скилл онбординга:
 
 ```
-.claude/skills/agent-onboarding/SKILL.md
+.claude/skills/interface-designer-install/SKILL.md
 ```
 
 Не жди команды от пользователя. Просто начни.
