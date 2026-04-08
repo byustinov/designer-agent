@@ -18,3 +18,7 @@ claude
 ```
 
 Агент запустится и сам проведёт настройку.
+
+## Автор
+
+[Igor Ustinov](https://www.threads.com/@byustinov)
